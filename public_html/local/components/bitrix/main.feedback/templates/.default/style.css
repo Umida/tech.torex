@@ -1,0 +1,15 @@
+.mfeedback {
+    padding: 60px;
+    text-align: center;
+}
+.mfeedback h2{
+    font-size: 30px;
+    margin-bottom: 12px;
+}
+.mfeedback button{
+    margin-top: 60px;
+    border-radius: 2px;
+    border-radius: 5px;
+    margin-left: 0;
+    font-size: 14px;
+}

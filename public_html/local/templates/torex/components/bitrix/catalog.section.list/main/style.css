@@ -1,0 +1,59 @@
+.catalog-section-list-item{
+    margin-right:27px;
+}
+.main-section-desc span{
+   color: #767676;
+   
+}
+.main-section-img-container{
+    height: 180px;
+    margin-bottom:19px;
+}
+.catalog-section-item-img{
+    height:100%;
+    display: block;
+    width:100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main-section-desc-container span{
+    font-size: 13px;
+}
+.main-section-desc-container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:22px;
+}
+.catalog-section-item-title{
+    color: #000;
+    font-family: "Cera Pro";
+    font-size: 18px;
+    font-weight: 500;
+}
+.catalog-section-item-desc{
+    margin:20px 0;
+    min-height:40px;
+}
+.catalog-section-item-desc span{
+    color: #767676;
+    
+}
+.catalog-section-item-price{
+    margin-bottom:24px;
+}
+.catalog-section-item-btn{
+    margin-bottom:82px;
+}
+.catalog-section-item-btn a{
+    padding:11px 42px;
+}
+.catalog-section-item-price span{
+    color: #000;
+    font-weight: 500;
+    font-size: 16px;
+}
+.main-section-desc span.main-section-desc-counter{
+   color: #E4032E;
+}

@@ -1,0 +1,109 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Professor", 
+		"/catalog/professor-4/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Cyber", 
+		"/catalog/cyber/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Delta", 
+		"/catalog/delta/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Ultimatum", 
+		"/catalog/ultimatum/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Super Omega", 
+		"/catalog/super-omega/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Серия X", 
+		"/catalog/x-series/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Optima", 
+		"/catalog/optima/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Snegir", 
+		"/catalog/snegir/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Snegir 20", 
+		"/catalog/snegir/filter/model-is-snegir%2020%20mp-or-snegir%2020%20steel/apply/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Snegir 45", 
+		"/catalog/snegir/filter/model-is-snegir%2045%20mp-or-snegir%2045%20pp/apply/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Snegir 55", 
+		"/catalog/snegir/filter/model-is-snegir%2055%20mp-or-snegir%2055%20pp-or-snegir%2055c-01-or-snegir%2055c-03/apply/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Snegir 60", 
+		"/catalog/snegir/filter/model-is-snegir%2060%20mp-or-snegir%2060%20pp/apply/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Snegir Pro", 
+		"/catalog/snegir/filter/model-is-snegir%20pro%20mp/apply/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Snegir Cottage", 
+		"/catalog/snegir/filter/model-is-snegir%20cottage%2001-or-snegir%20cottage%2002-or-snegir%20cottage%2003/apply/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Termo Snegir", 
+		"/catalog/termo-snegir/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

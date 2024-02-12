@@ -1,0 +1,44 @@
+div.mfeedback {}
+div.mf-name, div.mf-email, div.mf-captcha, div.mf-message {width:80%; padding-bottom:0.4em;}
+div.mf-name input, div.mf-email input {width:60%;}
+div.mf-message textarea {width: 60%;}
+span.mf-req {color:red;}
+div.mf-ok-text {color:green; font-weight:bold; padding-bottom: 1em;}
+
+.form-flex-group{
+    display: flex;
+        position: relative;
+}
+.form-title{
+font-weight: 700;
+}
+.bottom-border {
+    display: block;
+    color:#fff;
+    background-color: transparent;
+    border:0;
+    border-bottom: 1px solid white;
+    height: 30px;
+    padding-right: 30px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    width: 100%;
+    margin-top:31px;
+}
+
+.image-btn{
+    width: 20px;
+    height: 20px;
+
+        background-color: transparent;
+    border: 0;
+    background-image:url(/images/svg/circle-arrow.svg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 0;
+    bottom:6px;
+
+}

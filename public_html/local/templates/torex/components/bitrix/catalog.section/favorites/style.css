@@ -1,0 +1,17 @@
+#fav-count{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:var(--color-brand);
+    position: absolute;
+}
+.favorite-section{
+    display:flex;
+    flex-wrap: wrap;
+
+}
+.favorite-section .prods-line_item{
+   width: calc(24% - 40px);
+}
